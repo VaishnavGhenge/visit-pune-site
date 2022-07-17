@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.hero {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./images/pune.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    text-shadow: 0px 0px 1px black;
+}
+
+.heading {
+    background-color: #928B78;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+
+.sub-heading {
+    background-color: #434931;
+    width: 400px;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+
+.activities {
+    color: #403E18;
+    background-color: #F1FAEE;
+    padding: 50px 20px;
+}
+
+.act-head {
+    margin-top: 0px;
+}
+
+.act-div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.activity-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.img-des {
+    margin: 20px auto 5px auto;
+    width: 200px;
+}
+
+.guide {
+    padding: 50px;
+}
+
+.guide-card {
+    color: #403E18;
+    background-color: #928B78;
+    /* background-color: #D9CBC0; */
+    display: flex;
+    padding: 15px;
+    width: 400px;
+    border-radius: 5px;
+    margin: 0px auto;
+    border-bottom: 4px solid #434931;
+}
+
+.guide-img {
+    width: 130px;
+    border-radius: 5px;
+}
+
+.guide-info {
+    width: 200px;
+    margin: 0px auto;
+}
