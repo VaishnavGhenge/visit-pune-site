@@ -1,5 +1,5 @@
 # visit-pune-site
-live site url - http://vaishnavghenge.me/visit-pune-site/
+live site url - http://vaishnavghenge.github.io/visit-pune-site/
 
 screenshot
 ![visit-pune-site 1](https://user-images.githubusercontent.com/62459983/179394834-ab6e32bb-b58b-4f5c-a119-30a37018656e.PNG)
